@@ -6,7 +6,7 @@ Currently, I’m just learning by doing. I work on small projects where I clean 
 
 ---
 
-## What i’m working on
+## What i’m working on:
 - data projects using python, r, and sql  
 - kaggle + public datasets for practice and case studies  
 - building a project portfolio (data + econ + ux)  
@@ -14,7 +14,7 @@ Currently, I’m just learning by doing. I work on small projects where I clean 
 
 ---
 
-## Tools I use
+## Tools I use:
 * python, r, sql (basic), c++  
 * pandas, numpy, matplotlib, excel (pivot tables, vlookup)  
 * figma, canva  
@@ -22,7 +22,7 @@ Currently, I’m just learning by doing. I work on small projects where I clean 
 
 ---
 
-## Currently learning
+## What I am currently learning:
 - data storytelling & dashboard design  
 - ux research and case studies  
 - applying data skills to real-world topics like business, health, and policy  
