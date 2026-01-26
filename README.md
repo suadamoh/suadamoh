@@ -1,16 +1,21 @@
 # 🌱 Hello there, i’m Suada
 
-I’m an econ major at the University of Michigan with minors in data science and ux design. I’m really into using data to figure out what’s actually going on behind numbers, especially in business and economics. I like looking at patterns in how people behave and turning messy info into something that actually makes sense.
-
-Currently, I’m just learning by doing. I work on small projects where I clean data, mess around with it, and turn it into visuals or write-ups that are easy to understand.
+I’m an econ major at the University of Michigan with minors in Data Science and User Experience Design. I build projects that combine data analysis, business thinking, and user-centered design.
 
 ---
+## 📊 Data & Economics Projects (In progress):
+- Can students actually afford Ann Arbor? 
+- Coffee shop pricing analysis
+- Small business location analysis 
 
-## What i’m working on:
-- data projects using python, r, and sql  
-- kaggle + public datasets for practice and case studies  
-- building a project portfolio (data + econ + ux)  
-- learning power bi and improving my visualization skills  
+## 🎨 UX & Product Design (In progress):
+- Redeisgn of healthcare portal
+- Redesigning a confusing dashboard
+- Food access tool
+
+## 🔀 Hybrid Projects (In progress):
+- Access to healthcare around campus
+- Interactive budget planner
 
 ---
 
@@ -22,11 +27,4 @@ Currently, I’m just learning by doing. I work on small projects where I clean 
 
 ---
 
-## What I am currently learning:
-- data storytelling & dashboard design  
-- ux research and case studies  
-- applying data skills to real-world topics like business, health, and policy  
-
----
-
-✨ I am always trying to learn new things and build projects that turn ideas into something real.
+✨ I am always trying to learn new things and build projects that turn ideas into something meanigful
