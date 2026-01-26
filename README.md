@@ -27,4 +27,9 @@ I’m an econ major at the University of Michigan with minors in Data Science an
 
 ---
 
+## Contact me:
+LinkedIn: www.linkedin.com/in/suada-mohamed 
+
+---
+
 ✨ I am always trying to learn new things and build projects that turn ideas into something meanigful
