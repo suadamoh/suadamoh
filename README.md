@@ -1,35 +1,36 @@
-# 🌱 Hello there, i’m Suada
+# Hello there, i’m Suada 🙋🏻‍♀️
 
 I’m an econ major at the University of Michigan with minors in Data Science and User Experience Design. I build projects that combine data analysis, business thinking, and user-centered design.
+* Writing **SQL queries** to extract, clean, and structure data
+* Performing **data analysis and reporting** in Google Sheets and Excel, with a focus on clarity and decision-making  
+* Building **Tableau and Power BI dashboards** to turn data into accessible insights
 
 ---
-## 📊 Data & Economics Projects (In progress):
-- Can students actually afford Ann Arbor? 
-- Coffee shop pricing analysis
-- Small business location analysis 
-
-## 🎨 UX & Product Design (In progress):
-- Redeisgn of healthcare portal
-- Redesigning a confusing dashboard
-- Food access tool
-
-## 🔀 Hybrid Projects (In progress):
-- Access to healthcare around campus
-- Interactive budget planner
+## 📚 Projects
+Welcome to my portfolio where I showcase my [projects]()
 
 ---
 
-## Tools I use:
-* python, r, sql (basic), c++  
-* pandas, numpy, matplotlib, excel (pivot tables, vlookup)  
-* figma, canva  
-* jupyter notebook, rstudio, github   
+## 🛠️ Tools
+**Programming & Data Analysis**
+- Python, R, SQL (basic), C++
+
+**Data Analysis & Visualization**
+- pandas, NumPy, matplotlib
+- Excel (pivot tables, VLOOKUP)
+- Tableau, Microsoft Power BI
+
+**Design & UX**
+- Figma, Canva
+
+**Tools**
+- Jupyter Notebook, RStudio, GitHub
 
 ---
 
-## Contact me:
-LinkedIn: www.linkedin.com/in/suada-mohamed 
+## 👋🏻 Connect with Me
+[LinkedIn](www.linkedin.com/in/suada-mohamed)
 
 ---
 
-✨ I am always trying to learn new things and build projects that turn ideas into something meanigful
+✨ I am always trying to learn new things and look forward to building meanigful projects
