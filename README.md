@@ -22,7 +22,7 @@ Welcome to my portfolio where I showcase my [projects]()
 
 **Design & UX**
 - Figma, Canva
-
+  
 **Tools**
 - Jupyter Notebook, RStudio, GitHub
 
