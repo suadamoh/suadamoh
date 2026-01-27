@@ -29,7 +29,7 @@ Welcome to my portfolio where I showcase my [projects]()
 ---
 
 ## 👋🏻 Connect with Me
-[LinkedIn](www.linkedin.com/in/suada-mohamed)
+[LinkedIn](https://www.linkedin.com/in/suada-mohamed)
 
 ---
 
