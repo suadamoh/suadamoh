@@ -7,7 +7,7 @@ I’m an econ major at the University of Michigan with minors in Data Science an
 
 ---
 ## 📚 Projects
-Welcome to my portfolio, where I showcase my [projects]()
+Welcome to my portfolio, where I showcase my [projects](https://github.com/suadamoh/suada-portfolio/blob/main/README.md#-applications--programming)
 
 ---
 
