@@ -1,4 +1,5 @@
 # Hello there, i’m Suada 🙋🏻‍♀️
+<img width="1200" height="300" alt="Suada Mohamed" src="https://github.com/user-attachments/assets/9886bad4-36cd-45a0-a5f8-b93935d960b1" />
 
 I’m an econ major at the University of Michigan with minors in Data Science and User Experience Design. I build projects that combine data analysis, business thinking, and user-centered design.
 * Writing **SQL queries** to extract, clean, and structure data
@@ -6,7 +7,6 @@ I’m an econ major at the University of Michigan with minors in Data Science an
 * Building **Tableau and Power BI dashboards** to turn data into accessible insights
 
 ---
-<img width="1200" height="300" alt="Suada Mohamed" src="https://github.com/user-attachments/assets/9886bad4-36cd-45a0-a5f8-b93935d960b1" />
 
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/suadamoh/suada-portfolio)
