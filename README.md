@@ -1,4 +1,4 @@
-# Hello there, i’m Suada 🙋🏻‍♀️
+# Welcome, I’m Suada 🙋🏻‍♀️
 <img width="1200" height="300" alt="Suada Mohamed (1)" src="https://github.com/user-attachments/assets/dcfd910d-6733-49ce-9992-7248d7cae263" />
 
 
