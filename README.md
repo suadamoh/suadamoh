@@ -1,6 +1,4 @@
 # Welcome, I’m Suada 🙋🏻‍♀️
-<img width="1200" height="300" alt="Suada Mohamed (1)" src="https://github.com/user-attachments/assets/dcfd910d-6733-49ce-9992-7248d7cae263" />
-
 
 I’m an econ major at the University of Michigan with minors in Data Science and User Experience Design. I build projects that combine data analysis, business thinking, and user-centered design.
 * Writing **SQL queries** to extract, clean, and structure data
